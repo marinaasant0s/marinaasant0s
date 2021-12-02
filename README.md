@@ -1,11 +1,10 @@
 ### Hello guys, eu sou Marina Santos. 👋
 
 - 🌱 I'm currently learning Python, HTML, CSS and JavaScript.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about: student of systems analysis and development at the instituto federal de Pernambuco (IFPE).
-- 📫 How to reach me: santosmarina396@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: in love with photography.
+- 💬 about me: student of systems analysis and development at the instituto federal de Pernambuco (IFPE).
+- 📫 how to reach me: santosmarina396@gmail.com
+- 😄 pronouns: she/her
+- ⚡ fun fact: in love with photography.
 
 <div align="center">
   <a href="https://github.com/marinaasant0s/">
