@@ -1,6 +1,6 @@
 ### Hello guys, eu sou Marina Santos. 👋
 
-- 🌱 I'm currently learning Python, HTML, CSS and JavaScript.
+- 🌱 I'm currently learning Python, HTML, CSS, JavaScipt e Django.
 - 💬 about me: student of systems analysis and development at the instituto federal de Pernambuco (IFPE).
 - 📫 how to reach me: santosmarina396@gmail.com
 - 😄 pronouns: she/her
