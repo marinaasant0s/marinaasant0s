@@ -1,6 +1,5 @@
-### Hello guys, eu sou Marina Santos. 👋
+### Hello guys, I'm Marina Santos. 👋
 
-- 🌱 I'm currently learning Python, HTML, CSS, JavaScipt e Django.
 - 💬 about me: student of systems analysis and development at the Instituto Federal de Pernambuco (IFPE).
 - ⚡ fun fact: in love with photography.
 
