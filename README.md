@@ -1,12 +1,13 @@
-### Hello guys, I'm Marina Santos. 👋
+### Olá, sou Marina Santos. 👋
 
-- 💬 about me: student of systems analysis and development at the Instituto Federal de Pernambuco (IFPE).
-- ⚡ fun fact: in love with photography.
+- Sobre: estudante de análise e desenvolvimento de sistemas no Instituto Federal de Pernambuco (IFPE). Recentemente descobri uma paixão pela área de qualidade e estou concentrada em aprimorar e aplicar os conhecimentos que adquiri nesse campo.
+- Estudando: Java e Selenium.
+- Curiosidade: sou apaixonada por fotografia.
 
 <div align="center">
   <a href="https://github.com/marinaasant0s/">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marinaasant0s&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinaasant0s&layout=compact&langs_count=7&theme=dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=marinaasant0s&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinaasant0s&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
 
