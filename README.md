@@ -1,7 +1,6 @@
 ### Olá, sou Marina Santos. 👋
 
 - Sobre: estudante de análise e desenvolvimento de sistemas no Instituto Federal de Pernambuco (IFPE). Recentemente descobri uma paixão pela área de qualidade e estou concentrada em aprimorar e aplicar os conhecimentos que adquiri nesse campo.
-- Estudando: Java e Selenium.
 - Curiosidade: sou apaixonada por fotografia.
 
 <div align="center">
